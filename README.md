@@ -1,5 +1,5 @@
 
-# HHA 507 - Assignment # 1
+# HHA 507 - Assignment # 2
 
 This repository represents the completion of HHA 507 Assignment # 2
 
